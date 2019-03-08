@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="OpenAMASE/lib/Flexdock/flexdock-1.2/src/java/core"/>
+	<classpathentry kind="src" path="OpenAMASE/lib/Flexdock/flexdock-1.2/src/java/demo"/>
+	<classpathentry kind="src" path="OpenAMASE/lib/Flexdock/flexdock-1.2/src/java/dockbar"/>
+	<classpathentry kind="src" path="OpenAMASE/lib/Flexdock/flexdock-1.2/src/java/drag"/>
+	<classpathentry kind="src" path="OpenAMASE/lib/Flexdock/flexdock-1.2/src/java/perspective"/>
+	<classpathentry kind="src" path="OpenAMASE/lib/Flexdock/flexdock-1.2/src/java/plaf"/>
+	<classpathentry kind="src" path="OpenAMASE/lib/Flexdock/flexdock-1.2/src/java/test"/>
+	<classpathentry kind="src" path="OpenAMASE/lib/Flexdock/flexdock-1.2/src/java/view"/>
+	<classpathentry kind="src" path="OpenAMASE/lib/GRAL/java"/>
+	<classpathentry kind="src" path="OpenAMASE/src/Amase"/>
+	<classpathentry kind="src" path="OpenAMASE/src/Core"/>
+	<classpathentry kind="src" path="OpenAMASE/src/example"/>
+	<classpathentry kind="src" path="OpenAMASE/src/SetupTool"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/flexdock-1.2.3.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/Flexdock/flexdock-1.2.3.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/Flexdock/flexdock-1.2/lib/jmf/lib/customizer.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/Flexdock/flexdock-1.2/lib/jmf/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/Flexdock/flexdock-1.2/lib/jmf/lib/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/Flexdock/flexdock-1.2/lib/jmf/lib/multiplayer.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/Flexdock/flexdock-1.2/lib/looks-2.1.1.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/Flexdock/flexdock-1.2/lib/skinlf.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/GRAL/gral-core-0.10.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/lmcplib.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/SwingX/swingx-all-1.6.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/SwingX/swingx-all-1.6.4-sources.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/SwingX/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="OpenAMASE/lib/worldwind.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
