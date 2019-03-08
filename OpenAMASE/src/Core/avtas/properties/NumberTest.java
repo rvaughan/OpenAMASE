@@ -9,8 +9,7 @@
 
 
 
-
-package editors;
+package avtas.properties;
 
 import avtas.util.WindowUtils;
 import org.jdesktop.swingx.JXColorSelectionButton;
